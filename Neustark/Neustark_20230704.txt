@@ -1,0 +1,6 @@
+Neustark_20230704:
+
+- Auf Report Einkaufsbestellung (1322):
+>  Länder Code (z.B CH) durch volle Beschreibung ersetzt (z.B Schweiz)
+> Hierfür wurden die Standard BuyFromVendor[1-4] Felder ersetzt und jeweils ein Custom Feld eingefügt, das Source Array für diese Felder skipped beim befüllen leere Werte, somit ist es nicht vorhersehbar, an welcher Stelle der Länder Code abgefüllt wird (mehrere Felder könnten leer sein (Adresse 2, PLZ, ...), deshalb kann dieser dann auch nicht in die volle Beschreibung geändert werden. So ist die Länderbeschreibung immer an der gleichen Stelle. Falls Felder vorher Leer sind, wird eingfach eine Leerzeile gedruckt.
+> Das kann natürlich korrigiert werden, aber nur gegen zusätzliches Budget (2h), da die Beschreibung schon auf unseren Nacken lief.

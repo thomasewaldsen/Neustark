@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Neustark">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1479927745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReportSupplierWrapperTable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportSupplierWrapperTable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1479927745 - Field 4278042103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SupplierRef</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportSupplierWrapperTable - Field SupplierRef - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document %1 has been archived.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Restore %1 %2 Version %3?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 has been restored.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document restored from Version %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 has been partly posted.\Restore not possible.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entries exist for on or more of the following:\  - %1\  - %2\  - %3.\Restoration of document will delete these entries.\Continue with restore?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive %1 no.: %2?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Tracking Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unposted %1 %2 does not exist anymore.\It is not possible to restore the %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2750267601 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Another Version of %1 Purchase Order has already been restored</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PurchaseArchiveCU - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 826010973 - Control 1983336087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>MAIN SPECS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemCardPageExt - Control MainSpecs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 826010973 - Control 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Kred.-Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemCardPageExt - Control VendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1914818231 - Control 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Kred.-Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListPageExt - Control VendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2107875865 - Control 1241052590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>Bestellungen</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension JobListPageExt - Control BestellungenMarkup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2118423987 - Control 1918079905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4048657685">
+          <source>Prozess-Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostedPurchaseInvoicePageExt - Control ProcessStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3074598840 - Control 1918079905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+          <source>Prozess-Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostedPurchInvListPageExt - Control ProcessStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4194840448 - Action 2914340940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 5120816">
+          <source>Transfer the contents of this archived version to the original document. This is only possible if the original is not posted or deleted. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderArchiveListExt - Action Restore - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4194840448 - Action 2914340940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 5120816">
+          <source>&amp;Restore</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderArchiveListExt - Action Restore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4194840448 - Control 331903282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 5120816">
+          <source>Projekt Nr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderArchiveListExt - Control JobNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 339712135 - Control 1918079905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Prozess-Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderListPageExt - Control ProcessStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 339712135 - Control 331903282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Projekt Nr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderListPageExt - Control JobNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 339712135 - Control 2158523598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Ihre Referenz</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderListPageExt - Control YourReference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 339712135 - Control 429198581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Zugesagtes Wareneingangsdatum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderListPageExt - Control Promised Receipt Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2862659649 - Action 919615074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Projekt Nr. aktualisieren</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderPageExt - Action SetProjectNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2862659649 - Control 1918079905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Prozess-Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderPageExt - Control ProcessStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2862659649 - Control 331903282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Projekt Nr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderPageExt - Control JobNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2757825815 - Control 622735593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Line No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseOrderSubformPageExt - Control SenLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3492770309 - Action 2335178540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 905038731">
+          <source>Kred. anlegen</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SwsEmployeeCardPageExt - Action CreateVendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2220122518 - Method 3883665885 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2220122518">
+          <source>You cannot delete %1 %2 because there is at least one outstanding Purchase %3 for this vendor.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardPageExt - Method CheckOutstandingPurchaseDocuments - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2220122518 - Action 2994466179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>DEBUG</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardPageExt - Action DEBUG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4144265336 - Field 4215207521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Language Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CompanyInformationTableExt - Field Sen Language Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3817553838 - Field 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>VendorName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemTableExt - Field VendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2558267388 - Field 1121680014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Bestellungen</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension JobTableExt - Field Bestellungen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2054661299 - Field 331903282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146271610">
+          <source>JobNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderArchiveTableExt - Field JobNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2054661299 - Field 3666667048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146271610">
+          <source>SenQty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderArchiveTableExt - Field SenQty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 453268989 - Field 2754446846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>NewJobNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderTableExt - Field NewJobNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 453268989 - Field 1918079905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>ProcessStatus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderTableExt - Field ProcessStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 453268989 - Field 622735593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>SenLineNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderTableExt - Field SenLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 453268989 - Field 3666667048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>SenQty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderTableExt - Field SenQty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2100583350 - Field 1918079905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>ProcessStatus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseInvHeaderTableExt - Field ProcessStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3620596246 - Field 622735593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>SenLineNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseLineTableExt - Field SenLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2698150771 - Field 2156145208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Einleitungstext</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchasesPayablesSetupTableExt - Field Einleitungstext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2698150771 - Field 2253929031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Introduction Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchasesPayablesSetupTableExt - Field Introduction Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2352881350 - Field 1607295407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1696901423">
+          <source>VendorNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SwsEmployeeTableExt - Field VendorNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1682664029 - Method 3883665885 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1682664029">
+          <source>You cannot delete %1 %2 because there is at least one outstanding Purchase %3 for this vendor.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt - Method CheckOutstandingPurchaseDocuments - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1682664029 - Field 3013360664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>SwsEmployeeNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorTableExt - Field SwsEmployeeNo - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

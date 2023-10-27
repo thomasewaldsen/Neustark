@@ -1,0 +1,48 @@
+{
+    "id": "10bd1e95-1bcc-4b74-a42f-98c4f04c9102",
+    "name": "Neustark",
+    "publisher": "senergy services AG",
+    "version": "1.0.0.21",
+    "brief": "",
+    
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "appId": "a878e400-63c4-4316-a1ff-5c52c03b100d",
+            "publisher": "Alpha Solutions AG",
+            "name": "Aproda Interface Yokoy (ASER)",
+            "version": "21.0.0.58"
+        },
+        {
+            "id": "CA3D5715-AC87-48FF-ACE2-FC1605E50A69",
+            "name": "SwissSalary 365",
+            "publisher": "SwissSalary Ltd.",
+            "version": "1.5061003.2003.0"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "21.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "10.0",
+    "features": [
+        "NoImplicitWith",
+        "TranslationFile",
+        "GenerateCaptions"
+    ]
+}
